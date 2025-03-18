@@ -1,0 +1,20 @@
+==========================================================================
+Ardupilot error message "Bad or No Terrain Data"
+https://discuss.ardupilot.org/t/plane-4-0-bad-or-no-terrain-data/48685/5
+You can use the Ardupilot Terrain Generator to download terrain datas of any region you want. Click with the mouse on the center and adjust the radius with the slider on the left.
+
+https://terrain.ardupilot.org/
+
+Ardupilot Terrain Generator
+  Terrain Generation complete. You can download from: here.
+
+  This should be unzipped to the autopilot's SD card, within in the "APM/terrain" folder.
+
+  This download will be available for 24 hours.
+
+Downloaded .zip File => "5cbeb91c-f60e-11ef-bb20-a5d740888b9c"
+
+    1. N33W087.DAT
+    2. N33W088.DAT
+    3. N34W087.DAT
+    4. N34W088.DAT
